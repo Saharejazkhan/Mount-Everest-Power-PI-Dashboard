@@ -88,3 +88,6 @@ Created relationships across exped.csv, members.csv, and peaks.csv
 📎 LinkedIn Post
 Read about this project on LinkedIn:
 🔗 linkedin.com/in/iamsaharejaz
+
+Screen Shots are added in this repository (https://github.com/Saharejazkhan/Mount-Everest-Power-PI-Dashboard/blob/main/Mount%20Everest%20Dashboard.png )
+
